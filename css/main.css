@@ -1,0 +1,100 @@
+.container{
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+.section{
+	height: 400px;
+	
+}
+
+.row{
+	margin: 0px;
+}
+
+body{
+	color: black;
+	line-height: 1.42;
+	font-size: 14px;
+}
+
+.navbar{
+	background: lightgreen;
+	width: 100%;
+	
+}
+.navbar-nav>li>a{
+	color: white;
+}
+.navbar-nav>li>a:hover{
+	color:blue;
+	background: lightgreen;
+}
+.navbar-brand{
+	color: white;
+	font-size: 28px;
+	
+}
+
+.heading{
+	color: red;
+}
+
+.sub {
+	border-bottom: 5px solid lightgreen;
+}
+
+.team{
+	border-bottom: 5px solid lightgreen;
+	text-align: center;
+}
+
+.quote{
+	text-align: right;
+}
+.dev{
+	border-radius:100px;
+	height: 70px;
+	width: 70px;
+	margin-right:10px;
+}
+
+.float-left{
+	float: left!important;
+}
+footer{
+	background-color: $f6f6f6;
+	padding-top:90px;
+	text-align: center;
+}
+
+.nav-footer {
+	margin-top: 80px;
+	padding-top: 26px;
+	padding-bottom: 13px;
+	background-color: white;
+}
+
+.btn-border-dark {
+	border: 2px solid black;
+	background-color: transparent;
+	color: black;
+}
+
+.name {
+	margin-top: 0px;
+}
+
+a {
+	color: black;
+	letter-spacing: 1px;
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+.copy{
+	color:grey;
+}
