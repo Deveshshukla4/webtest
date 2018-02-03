@@ -22,7 +22,7 @@ body{
 }
 
 .navbar{
-	background: lightgreen;
+	background: blueviolet;
 	width: 100%;
 	
 }
@@ -31,7 +31,7 @@ body{
 }
 .navbar-nav>li>a:hover{
 	color:blue;
-	background: lightgreen;
+	background: blueviolet;
 }
 .navbar-brand{
 	color: white;
@@ -44,11 +44,11 @@ body{
 }
 
 .sub {
-	border-bottom: 5px solid lightgreen;
+	border-bottom: 5px solid blueviolet;
 }
 
 .team{
-	border-bottom: 5px solid lightgreen;
+	border-bottom: 5px solid blueviolet;
 	text-align: center;
 }
 
